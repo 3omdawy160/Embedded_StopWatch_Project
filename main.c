@@ -1,5 +1,5 @@
 /*
- * StopWatch.h
+ * main.c
  *  Created on: Feb 10, 2022
  *  Author:Mohamed Emad El-Dien Mahmoud
  *  Version:1
