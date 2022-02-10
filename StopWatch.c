@@ -1,3 +1,10 @@
+/*
+ * StopWatch.h
+ *  Created on: Feb 10, 2022
+ *  Author:Mohamed Emad El-Dien Mahmoud
+ *  Version:1
+ */
+
 #include "StopWatch.h"
 
 char g_second1=0;
